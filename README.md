@@ -10,13 +10,13 @@ The project investigates decision-oriented adaptive item selection for the class
 
 | File | Description |
 |--------|-------------|
-| `01_prepareData.R` | Data preparation and preprocessing |
+| `01_prepareData.R` | Data preparation |
 | `02_fitModels.R` | Model fitting and calibration |
 | `03_predAndPerf.R` | Adaptive predictions and performance evaluation |
 | `03_predAndPerf_fixedSelections.R` | Evaluation of fixed item selections |
 | `Abbildungen.R` | Generation of figures and plots |
 | `DataManagement_Cimbolic.R` | Data management and dataset preparation |
-| `Stichprobenbeschreibung.R` | Sample description and descriptive statistics |
+| `Stichprobenbeschreibung.R` | Sample description |
 | `dedaptiveExtended.R` | Core functions of the dedaptive framework used in the analyses   |
 
 ## Software
