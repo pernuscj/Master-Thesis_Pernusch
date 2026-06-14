@@ -34,3 +34,8 @@ table(data$dec_somato)
 table(data$dec_psych)
 table(data$dec_uro)
 table(data$dec_total)
+
+# 5. Reproduktives Stadium -> Premenopause, Early menopause transition, Late menopause transition, Postmenopause
+table(data$Reproductive.age)
+prop.table(table(data$Reproductive.age))*100
+

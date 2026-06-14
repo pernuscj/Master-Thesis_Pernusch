@@ -106,8 +106,7 @@ data <- data[c(
 # Nur Fälle behalten, bei denen mrsii_available = 1
 data <- data[data$mrsii_available == 1, ]
 
-# Spalten "Reproductive.age" und "SERM" löschen, da unvollständig
-data$Reproductive.age <- NULL
+# Spalte löschen, da unvollständig
 data$SERM <- NULL
 
 #Anzahl Zeilen?
