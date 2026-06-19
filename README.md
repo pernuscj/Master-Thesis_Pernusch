@@ -22,7 +22,7 @@ The project investigates decision-oriented adaptive item selection for the class
 ## Software
 Analyses were conducted in **R** using the **dedaptive** framework and related statistical packages.
 
-The adaptive testing procedures are based on existing R scripts provided by Patric Wyss. These scripts served as the methodological foundation for the analyses and were adapted for the present application to the MRS-II.
+The adaptive testing procedures are based on existing R scripts provided by Patric Wyss (https://github.com/Statric/dedaptive_extended). These scripts served as the methodological foundation for the analyses and were adapted for the present application to the MRS-II.
 
 ## Author
 Jennifer Pernusch
